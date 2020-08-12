@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "token": "import",
+      "require": true
+    },
+    {
+      "token": "{",
+      "require": false
+    },
+    {
+      "token": "",
+      "require": true
+    },
+    {
+      "token": "}",
+      "require": false
+    },
+    {
+      "token": "from",
+      "require": true
+    },
+    {
+      "token": "\"",
+      "require": true
+    },
+    {
+      "token": "",
+      "require": true
+    },
+    {
+      "token": "\"",
+      "require": true
+    }
+  ]
+}
