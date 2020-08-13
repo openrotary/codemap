@@ -1,0 +1,22 @@
+{
+  "type": "Program",
+  "body": [
+    {
+      "type": "ImportDeclaration",
+      "specifiers": [
+        {
+          "type": "ImportDefaultSpecifier",
+          "local": {
+            "type": "Identifier",
+            "name": "Vue"
+          }
+        }
+      ],
+      "source": {
+        "type": "Literal",
+        "value": "../vue",
+        "raw": "'../vue'"
+      }
+    }
+  ]
+}

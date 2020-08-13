@@ -1,0 +1,37 @@
+{
+  "type": "Program",
+  "body": [
+    {
+      "type": "ImportDeclaration",
+      "specifiers": [
+        {
+          "type": "ImportSpecifier",
+          "imported": {
+            "type": "Identifier",
+            "name": "reactive"
+          },
+          "local": {
+            "type": "Identifier",
+            "name": "reactive"
+          }
+        },
+        {
+          "type": "ImportSpecifier",
+          "imported": {
+            "type": "Identifier",
+            "name": "computed"
+          },
+          "local": {
+            "type": "Identifier",
+            "name": "computed"
+          }
+        }
+      ],
+      "source": {
+        "type": "Literal",
+        "value": "../vue",
+        "raw": "'../vue'"
+      }
+    }
+  ]
+}
